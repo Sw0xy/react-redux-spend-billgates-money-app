@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { useSelector } from 'react-redux';
 import { errorSelector, moneySelector } from '../redux/moneySlice';
 import { Typography } from 'antd';
